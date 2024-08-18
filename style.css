@@ -1,0 +1,77 @@
+.header{background-color: #fdefff;
+}
+
+
+
+.title{
+    font-family: "Antic Didone", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #b8dbda;
+    color:#667494 ;
+  
+  
+}
+
+h1{
+    font-size: 3rem;
+    text-align: center;
+    font-family: "Antic Didone", serif;
+    font-weight: 400;
+    font-style: normal;
+    color:#667494 ;
+}
+
+h2{
+    font-size: 2rem;
+    text-align: center;
+    font-family: "Antic Didone", serif;
+    font-weight: 400;
+    font-style: normal;
+    color:#667494 
+}
+.profile-img{
+    display: block;
+    height: 200px;
+    border-radius: 50%;
+    justify-content: center;
+    
+    
+}
+
+p{
+    display: block;
+    text-align: center;
+}
+h3{
+    text-align: justify;
+    font-family: "Antic Didone", serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #667494;
+}
+small{
+    color: #e1c6b3;
+
+}
+.contact-page{
+    display: block;
+    text-align: center;
+}
+footer{
+    background-color: #e1c6b3;
+}
+.footer-link{
+    display: block;
+    text-align: center;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: var(--bs-nav-pills-link-active-color);
+    background-color: #e1c6b3;
+}
+.nav-link{
+    color: #e1c6b3;
+    font-family: "Antic Didone", serif;
+    font-weight: 400;
+    font-style: normal;
+}
